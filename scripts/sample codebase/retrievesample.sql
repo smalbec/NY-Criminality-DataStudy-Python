@@ -1,0 +1,1 @@
+SELECT * FROM nyaidcrimetimeseriesSample WHERE County = 'Allegany' AND Year = 2015
